@@ -1,5 +1,6 @@
 {
     "name": "5120102",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
